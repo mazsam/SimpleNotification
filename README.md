@@ -8,4 +8,5 @@ Source :
 
 http://www.vogella.com/tutorials/AndroidNotifications/article.html
 https://developer.android.com/guide/topics/ui/notifiers/notifications.html?hl=id
+https://developer.android.com/training/notify-user/expanded.html
 
