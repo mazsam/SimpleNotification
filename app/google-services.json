@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "465113234967",
+    "firebase_url": "https://demofirebase-bfaaa.firebaseio.com",
+    "project_id": "demofirebase-bfaaa",
+    "storage_bucket": "demofirebase-bfaaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465113234967:android:8acc13f26e0288cc",
+        "android_client_info": {
+          "package_name": "com.example.massam.simplenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465113234967-2v8p12gau3iqgptbl30ncpjspkeuhfti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnHEPYRQwToniQKnp4-xPoHOhxye3wDF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
